@@ -1,0 +1,5 @@
+1. In terminal run:
+code $profile
+
+2. should open: ..\PowerShell\Microsoft.PowerShell_profile.ps1 in this file write:
+oh-my-posh.exe init pwsh --config "C:\ohmyposh\paradox.json" | Invoke-Expression
